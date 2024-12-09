@@ -9,19 +9,19 @@ This project presents a comprehensive analysis of Walmart sales data through an 
 - Enable data-driven decision-making for marketing and inventory strategies.
   
 # Features of the Dashboard
-- **Sales by Product Category**
+**Sales by Product Category**
 - A horizontal bar chart visualizing sales revenue distribution across product categories.
 - Quickly identify the highest-grossing and underperforming categories.
   
-- **Top 10 Product IDs**
+**Top 10 Product IDs**
 - A line chart showcasing the top 10 products by revenue.
 - Helps identify high-demand products for prioritization.
-  
-- **Sales by Age Group**
+
+**Sales by Age Group**
 - A line graph depicting sales performance across different age brackets.
 - Highlights the most active consumer age groups contributing to revenue.
 
-- **Sales by Gender**
+**Sales by Gender**
 - A vertical bar chart comparing sales contributions by gender.
 - Provides insights into gender-based consumer behavior.
   
@@ -29,15 +29,15 @@ This project presents a comprehensive analysis of Walmart sales data through an 
 - Open the Walmart Sales Analysis.xlsx file in Microsoft Excel.
 - Navigate to the Dashboard tab to view the interactive visualizations.
 - Use the filters and slicers (if applicable) to explore specific subsets of the data, such as:
-- **Time periods**
-- **Product categories**
-- **Regions or demographics**   
+  - Time periods
+  - Product categories
+  - Regions or demographics   
 - Refer to additional tabs for detailed breakdowns:
-- **Sales by Gender**
-- **Sales by Product Category**
-- **Sales by Age Group**
-- **Top 10 Product IDs**
-- **Raw Data**
+  - Sales by Gender
+  - Sales by Product Category
+  - Sales by Age Group
+  - Top 10 Product IDs
+  - Raw Data
   
 # Insights and Highlights
 - **Top Category**: The category with the highest sales generates over $2 billion in revenue.
